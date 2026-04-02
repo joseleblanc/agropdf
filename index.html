@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgroLibrary | Sua Biblioteca Digital</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+<header>
+    <div class="header-overlay"></div>
+    <div class="header-content">
+        <h1>🌱 Agro<span>Library</span></h1>
+        <p>A maior biblioteca técnica de agricultura no estilo streaming</p>
+
+        <div class="search-container">
+            <div class="search-box">
+                <i class="fas fa-search search-icon"></i>
+                <input type="text" id="search" placeholder="O que você quer aprender hoje?">
+            </div>
+            <button id="toggleTheme" title="Alternar tema">
+                <i class="fas fa-moon"></i>
+            </button>
+        </div>
+
+        <div class="stats-pills">
+            <div class="pill">
+                <i class="fas fa-book"></i> <span id="totalLivros">carregando...</span>
+            </div>
+            <div class="pill">
+                <i class="fas fa-download"></i> <span id="totalDownloads">0 downloads</span>
+            </div>
+        </div>
+    </div>
+</header>
+
+<main id="catalogo"></main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,182 @@
+[
+  {
+    "titulo": "Agricultura de Precisão",
+    "descricao": "Direcionamento automático de máquinas agrícolas.",
+    "autor": "SENAR - PR",
+    "categoria": "Mecanização",
+    "url": "livros/PR.0344-Agricultura-de-Precisão-1.pdf"
+  },
+  {
+    "titulo": "Operação de Tratores Agrícolas",
+    "descricao": "Manual completo de condução e segurança.",
+    "autor": "Luiz Atílio Padovan",
+    "categoria": "Mecanização",
+    "url": "livros/PR.0339-Operacao-de-tratores_web.pdf"
+  },
+  {
+    "titulo": "Mecanização: Operação de Tratores",
+    "descricao": "Técnicas de operação e manutenção.",
+    "autor": "SENAR - Brasília",
+    "categoria": "Mecanização",
+    "url": "livros/177-OPERAÇÃO-DE-TRATORES.pdf"
+  },
+  {
+    "titulo": "Arados e Grades",
+    "descricao": "Operação de implementos agrícolas.",
+    "autor": "Carlos Eduardo Furlani",
+    "categoria": "Mecanização",
+    "url": "livros/PR.0345-Operacao-e-Manutencao-de-Arados-e-Grades_web.pdf"
+  },
+  {
+    "titulo": "Pulverizadores de Barras",
+    "descricao": "Uso e manutenção de pulverizadores.",
+    "autor": "Walter Boller",
+    "categoria": "Mecanização",
+    "url": "livros/PR.0343-Operacao-e-manutencao-de-pulverizadores-tratorizados-de-barras_web-2.pdf"
+  },
+  {
+    "titulo": "Tratorista de Excelência",
+    "descricao": "Capacitação avançada.",
+    "autor": "Márcio Vessoni",
+    "categoria": "Mecanização",
+    "url": "livros/PR.0396-Tratorista-operador-de-excelencia_web.pdf"
+  },
+
+  {
+    "titulo": "Guia de Solo",
+    "descricao": "Física, química e biologia do solo.",
+    "autor": "Técnico",
+    "categoria": "Solo",
+    "url": "livros/DOC-20250816-WA0064..pdf"
+  },
+  {
+    "titulo": "Análise de Solo e Foliar",
+    "descricao": "Interpretação de análises.",
+    "autor": "Luiz Carlos Prezotti",
+    "categoria": "Solo",
+    "url": "livros/DOC-20250805-WA0168..pdf"
+  },
+  {
+    "titulo": "Manejo de Solo e Água",
+    "descricao": "Conservação e manejo.",
+    "autor": "Pellegrini / Barbosa",
+    "categoria": "Solo",
+    "url": "livros/Livro-Rede-AgroPesquisa_digital.pdf"
+  },
+  {
+    "titulo": "Sistema Plantio Direto",
+    "descricao": "Cultivo de grãos.",
+    "autor": "SENAR - PR",
+    "categoria": "Solo",
+    "url": "livros/PR.0139-Sistema-Plantio-Direto_web.pdf"
+  },
+  {
+    "titulo": "Amostragem e Calagem",
+    "descricao": "Correção de solo.",
+    "autor": "Carla Ferreira",
+    "categoria": "Solo",
+    "url": "livros/PR.0404-Amostragem-e-calagem-do-solo_web.pdf"
+  },
+
+  {
+    "titulo": "Olericultura: Irrigação",
+    "descricao": "Manejo de irrigação.",
+    "autor": "Robson Armindo",
+    "categoria": "Cultivo",
+    "url": "livros/PR.0307-Olericultura-Irrigacao_web-1.pdf"
+  },
+  {
+    "titulo": "Agricultura Orgânica",
+    "descricao": "Produção orgânica.",
+    "autor": "Homero Amaral",
+    "categoria": "Cultivo",
+    "url": "livros/PR.0122-Organica-Informacoes-Basicas_web.pdf"
+  },
+  {
+    "titulo": "Reflorestamento",
+    "descricao": "Cultivos florestais.",
+    "autor": "SENAR - PR",
+    "categoria": "Cultivo",
+    "url": "livros/PR.0225-Reflorestamento_web.pdf"
+  },
+
+  {
+    "titulo": "Olericultura: Pragas",
+    "descricao": "Controle de pragas.",
+    "autor": "Maria Zawadneak",
+    "categoria": "Pragas e Doenças",
+    "url": "livros/PR.0306-Pragas-e-inimigos-naturais_web.pdf"
+  },
+  {
+    "titulo": "Manejo de Plantas Daninhas",
+    "descricao": "Controle sustentável.",
+    "autor": "Alfredo Albrecht",
+    "categoria": "Pragas e Doenças",
+    "url": "livros/PR.0379-Manejo-integrado-e-sustentavel-de-plantas-daninhas_web.pdf"
+  },
+  {
+    "titulo": "Formigas Cortadeiras",
+    "descricao": "Controle de formigas.",
+    "autor": "Wilson Reis",
+    "categoria": "Pragas e Doenças",
+    "url": "livros/PR.0003-Combate-as-formigas-cortadeiras_web-1.pdf"
+  },
+  {
+    "titulo": "Cigarrinha do Milho",
+    "descricao": "Manejo da praga.",
+    "autor": "Embrapa",
+    "categoria": "Pragas e Doenças",
+    "url": "livros/Cartilha-cigarrinha-e-enfezamentos_WEB.pdf"
+  },
+
+  {
+    "titulo": "Gestão Rural",
+    "descricao": "Administração rural.",
+    "autor": "Dossa / Medrado",
+    "categoria": "Gestão e Segurança",
+    "url": "livros/PR.0309-Gestao-Rural_web-1.pdf"
+  },
+  {
+    "titulo": "Segurança do Trabalho - CIPATR",
+    "descricao": "Prevenção de acidentes.",
+    "autor": "Clóvis Biasuz",
+    "categoria": "Gestão e Segurança",
+    "url": "livros/PR.0301-CIPATR_web-1.pdf"
+  },
+  {
+    "titulo": "Aplicação de Agrotóxicos",
+    "descricao": "Segurança e aplicação.",
+    "autor": "Johnny Franzon",
+    "categoria": "Gestão e Segurança",
+    "url": "livros/PR.0361-Aplicacao-de-agrotoxicos_web-1.pdf"
+  },
+
+  {
+    "titulo": "Manutenção de Tratores",
+    "descricao": "Manutenção preventiva.",
+    "autor": "Rodrigo Loncarovich",
+    "categoria": "Técnico / Manutenção",
+    "url": "livros/PR.0348-Manutencao-de-tratores-agricolas_web.pdf"
+  },
+  {
+    "titulo": "Instalações Elétricas",
+    "descricao": "Instalações rurais.",
+    "autor": "Francisco Medeiros",
+    "categoria": "Técnico / Manutenção",
+    "url": "livros/PR.0250-Eletricista-Instalacoes-Eletricas_web-2.pdf"
+  },
+  {
+    "titulo": "Soldador MIG/MAG",
+    "descricao": "Técnicas de soldagem.",
+    "autor": "Eros Ribeiro",
+    "categoria": "Técnico / Manutenção",
+    "url": "livros/PR.0380-Soldador-MIG-MAG_web.pdf"
+  },
+  {
+    "titulo": "Inspeção de Pulverizadores",
+    "descricao": "Boas práticas.",
+    "autor": "Karina Alves",
+    "categoria": "Técnico / Manutenção",
+    "url": "livros/IPP-site.pdf"
+  }
+]
